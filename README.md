@@ -1,4 +1,2 @@
-font colour
-online toast
-status saving
-status viewing
+font colour blue =20
+enable
